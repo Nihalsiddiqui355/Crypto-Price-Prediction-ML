@@ -1,4 +1,4 @@
-#Crypto Pricw Prediction
+# Crypto Pricw Prediction
 
 - For sretup first Clone the repo 
 - after that install python version 3.8.0
